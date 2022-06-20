@@ -1,6 +1,7 @@
 ## webpack
 webpack是一个用于现代JavaScript应用程序的*静态模块打包工具*。当webpack处理应用程序时，它会在内部构建一个*依赖图（dependency graph）*，此依赖图对应映射到项目所需要的每个模块，并生成一个或多个bundle。
 
+
 核心概念
 - 入口（entry）
 - 输出（output）
